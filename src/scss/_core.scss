@@ -1,7 +1,7 @@
 /*
  *  Owl Carousel - Core
  */
-.owl-carousel {
+.owl-carousel, .owl-carousel-2, .owl-carousel-3 {
 	display: none;
 	width: 100%;
 	-webkit-tap-highlight-color: transparent;
@@ -123,6 +123,6 @@
 }
 
 /* No Js */
-.no-js .owl-carousel {
+.no-js .owl-carousel, .no-js .owl-carousel-2, .no-js .owl-carousel-3 {
 	display: block;
 }
