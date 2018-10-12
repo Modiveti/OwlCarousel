@@ -1,7 +1,7 @@
 /*
  *  Owl Carousel - Core
  */
-.owl-carousel, .owl-carousel-2, .owl-carousel-3, .owl-carousel-4 {
+.owl-carousel, .owl-carousel-2, .owl-carousel-3, .owl-carousel-4,  .owl-carousel-5,  .owl-carousel-6 {
 	display: none;
 	width: 100%;
 	-webkit-tap-highlight-color: transparent;
@@ -121,6 +121,6 @@
 }
 
 /* No Js */
-.no-js .owl-carousel, .no-js .owl-carousel-2, .no-js .owl-carousel-3, .no-js .owl-carousel-4 {
+.no-js .owl-carousel, .no-js .owl-carousel-2, .no-js .owl-carousel-3, .no-js .owl-carousel-4, .no-js .owl-carousel-5, .no-js .owl-carousel-6 {
 	display: block;
 }
